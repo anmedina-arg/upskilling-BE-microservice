@@ -1,4 +1,4 @@
-const server = require("./src/routes/service");
+const server = require("./src/server");
 
 const PORT = 8004;
 
